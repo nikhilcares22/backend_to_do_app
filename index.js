@@ -1,6 +1,6 @@
 let express = require('express'),
     app = express(),
-    port = 8000,
+    port = 3000,
     bodyParser = require('body-parser'),
     taskRoutes = require('./routes');
 
